@@ -1,7 +1,7 @@
 Scheme-Code
 ===========
 
-Sometimes I may push Scheme codes I wrote.
+Some normal codes I wrote for fun.
 
 interp.ss - Supporting Lambda calculus, inspired by Wang Yin and Kent.
 
