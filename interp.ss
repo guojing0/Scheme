@@ -1,6 +1,5 @@
 ;;; It is something with calculating.
 
-
 (define env0 '())
 
 (define ext-env
